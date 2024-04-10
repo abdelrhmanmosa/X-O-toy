@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# X O ToY
 ## Using only HTML + CSS + JS
 
-<img src="game.png" alt="game" style="margin-left: 15px;" />
+
